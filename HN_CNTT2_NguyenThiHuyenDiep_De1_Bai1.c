@@ -148,5 +148,5 @@ case 6:
             break;
 case 7:xoaNhiemvu; break;
 case 8:return;
-}
+}while(choice !=8);
 }
